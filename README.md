@@ -4,12 +4,12 @@
 <sub>ㅤ</sub>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PauloGrijp)
 
-Oi, me chamo Paulinho e moro atualmente em Recife/PE, Brasil. Atualmente sou estudante de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) :rocket:
+Oi, me chamo Paulinho e moro em Recife/PE, Brasil. Atualmente sou estudante de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) :rocket:
 
 <a href="mailto:pxavier@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/paulo-xavier-b1aab21ba/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 👨‍💻 Estudante da Trybe;
-- 😄 Atualmente, estou aprendendo MySQL e MongoDB;- 
+- 😄 Atualmente, estou aprendendo Princípios SOLID e ORM; 
 - 💬 Qualquer dúvida, não deixa de me contactar;
 
 ## Skills
